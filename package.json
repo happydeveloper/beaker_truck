@@ -1,0 +1,22 @@
+{
+  "name": "@talktomeinkorean/beaker_truck",
+  "version": "1.0.0",
+  "description": "비커 트럭, 실험하는 트럭, 식물 트럭, 돈으로 주고 받지 않고 마음을 주고 받는 트럭, 트럭이 필요하면 비커 트럭, 운행기록",
+  "main": "Enigma.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/happydeveloper/beaker_truck.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/happydeveloper/beaker_truck/issues"
+  },
+  "homepage": "https://github.com/happydeveloper/beaker_truck#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3"
+  }
+}
